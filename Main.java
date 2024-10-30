@@ -4,5 +4,7 @@ public class Main {
         System.out.print("vicky-123");
         System.out.println("123");
 
+        System.out.print("Venkadesh23");
+        System.out.print("Just a try");
     }
 }
