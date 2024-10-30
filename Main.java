@@ -4,5 +4,6 @@ public class Main {
         System.out.print("vicky-123");
         System.out.print("Venkadesh23");
         System.out.print("Just a try");
+        System.out.print(2+4);
     }
 }
